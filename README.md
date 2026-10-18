@@ -3,7 +3,6 @@
 > An empirical benchmark comparing latency, token consumption, and accuracy across two LLM integration patterns in Node.js.
 
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D20.0.0-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![CI](https://github.com/Nyiko-Shabangu/Tool-Calling-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/Nyiko-M-Shabangu/Tool-Calling-analysis/actions)
 [![Tests](https://img.shields.io/badge/Jest-27%20passed%20(100%25)-brightgreen?logo=jest&logoColor=white)](https://jestjs.io/)
 [![Google Places](https://img.shields.io/badge/Google%20Places-API%20(New)-4285F4?logo=google-cloud&logoColor=white)](https://developers.google.com/maps/documentation/places/web-service)
 [![Providers](https://img.shields.io/badge/LLM-Cloudflare%20Workers%20AI%20%7C%20OpenAI-orange)](https://developers.cloudflare.com/workers-ai/)
@@ -313,7 +312,7 @@ vw-dealership-api-comparison/
 
 ```bash
 # Clone the repository
-git clone github.com/Nyiko-M-Shabangu/Tool-Calling-analysis.git
+git clone github.com/Nyiko-Shabangu/Tool-Calling-analysis.git
 cd vw-dealership-api-comparison
 
 # Install dependencies
